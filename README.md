@@ -70,6 +70,3 @@ This guide will help you generate and add a deploy key to your GitHub repository
 3. Your deployment process should now be able to clone and pull from the repository using the deploy key.
 
 That's it! You have successfully generated and added a deploy key to your GitHub repository.
-
-# CODEOWNERS can placed in root folder or .github/CODEOWNERS or /docs/CODEOWNERS
-- code owner for code reviewer assignment
